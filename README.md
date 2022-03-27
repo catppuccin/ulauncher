@@ -6,30 +6,27 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
-    <a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/lighttigerXIV/Catppuccin-Ulauncher/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/lighttigerXIV/Catppuccin-Ulauncher/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/lighttigerXIV/Catppuccin-Ulauncher/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/sample.png"/>
+  <img src="https://github.com/lighttigerXIV/Catppuccin-Ulauncher/blob/main/assets/ulauncher-preview.png"/>
 </p>
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Clone this repository
+2. Go to the folder and open a terminal there
+3. To make sure you have the folder type `mkdir ~/.config/ulauncher/user-themes/` 
+4. Type `cp -r Catppuccin ~/.config/ulauncher/user-themes/` 
+5. Open ulauncher settings and now you can select your new theme
 
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [lighttigerXIV](https://github.com/lighttigerxiv)
 
 &nbsp;
 
