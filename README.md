@@ -19,7 +19,7 @@
 
     git clone https://github.com/lighttigerXIV/Catppuccin-Ulauncher.git
     cd Catppuccin-Ulauncher
-    cp -r Catppuccin ~/.config/ulauncher/user-themes
+    cp -r Catppuccin Catppuccin-Round ~/.config/ulauncher/user-themes
     
 Now you can select the theme and enjoy it :D
 
