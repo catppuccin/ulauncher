@@ -15,13 +15,13 @@
   <img src="https://github.com/lighttigerXIV/Catppuccin-Ulauncher/blob/main/assets/ulauncher-preview.png"/>
 </p>
 
-## Usage
+## Installation
 
-1. Clone this repository
-2. Go to the folder and open a terminal there
-3. To make sure you have the folder type `mkdir ~/.config/ulauncher/user-themes/` 
-4. Type `cp -r Catppuccin ~/.config/ulauncher/user-themes/` 
-5. Open ulauncher settings and now you can select your new theme
+    git clone https://github.com/lighttigerXIV/Catppuccin-Ulauncher.git
+    cd Catppuccin-Ulauncher
+    cp -r Catppuccin ~/.config/ulauncher/user-themes
+    
+Now you can select the theme and enjoy it :D
 
 
 ## 💝 Thanks to
