@@ -14,9 +14,7 @@
 <p align="center">
 	<img src="assets/preview.webp"/>
 </p>
-<p align="center">
-  <img src="https://github.com/lighttigerXIV/Catppuccin-Ulauncher/blob/main/assets/ulauncher-round-preview.png"/>
-</p>
+
 
 ## Installation
 
