@@ -19,7 +19,7 @@
 ## Installation
 
     git clone https://github.com/lighttigerXIV/ulauncher.git
-    cd Catppuccin-Ulauncher
+    cd ulauncher
     cp -r src/* ~/.config/ulauncher/user-themes
     
 Now you can select the theme and enjoy it :D
