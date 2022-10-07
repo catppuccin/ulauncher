@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/lighttigerXIV/Catppuccin-Ulauncher"><img src="https://img.shields.io/github/stars/lighttigerXIV/Catppuccin-Ulauncher?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/lighttigerXIV/Catppuccin-Ulauncher/issues"><img src="https://img.shields.io/github/issues/lighttigerXIV/Catppuccin-Ulauncher?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/lighttigerXIV/Catppuccin-Ulauncher/contributors"><img src="https://img.shields.io/github/contributors/lighttigerXIV/Catppuccin-Ulauncher?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/lighttigerXIV/ulauncher"><img src="https://img.shields.io/github/stars/lighttigerXIV/Catppuccin-Ulauncher?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/lighttigerXIV/ulauncher/issues"><img src="https://img.shields.io/github/issues/lighttigerXIV/Catppuccin-Ulauncher?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/lighttigerXIV/ulauncher/contributors"><img src="https://img.shields.io/github/contributors/lighttigerXIV/Catppuccin-Ulauncher?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## Installation
 
-    git clone https://github.com/lighttigerXIV/Catppuccin-Ulauncher.git
+    git clone https://github.com/lighttigerXIV/ulauncher.git
     cd Catppuccin-Ulauncher
     cp -r src/* ~/.config/ulauncher/user-themes
     
