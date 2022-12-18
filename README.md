@@ -16,11 +16,54 @@
 </p>
 
 
-## Installation
+## Preperation
 
-    git clone https://github.com/catppuccin/ulauncher.git
+    git clone https://github.com/lighttigerXIV/Catppuccin-Ulauncher.git
     cd ulauncher
-    cp -r src/* ~/.config/ulauncher/user-themes
+    chmod +x ./install.sh
+    
+## Options
+| Command | Description 	|
+| ------- | -------------------	|
+| --flat | Installs the themes without the round border |
+| --all   | Installs all themes |
+| --latte | Installs all latte themes |
+| --latte-(codename) | Installs the latte theme corresponding to the codename |
+| --frappe | Installs all frappe themes |
+| --frappe-(codename) | Installs the frappe theme corresponding to the codename |
+| --macchiato | Installs all machchiato themes |
+| --macchiato-(codename) | Installs the macchiato theme corresponding to the codename |
+| --mocha | Installs all mocha themes |
+| --mocha-(codename) | Installs the mocha theme corresponding to the codename |
+
+#### Possible Codenames
+
+- rosewater
+- flamingo
+- pink
+- mauve
+- red
+- maroon
+- peach
+- yellow
+- green
+- teal
+- sky
+- sapphire
+- blue
+- lavender
+
+#### Examples
+    
+```./install.sh --all --flat```
+
+```./install.sh --all```
+
+```./install.sh --latte --mocha```
+
+```./install.sh --frappe-red --flat```    
+
+```./install.sh --frappe-mauve --frappe-lavender```
     
 Now you can select the theme and enjoy it :D
 
@@ -28,6 +71,7 @@ Now you can select the theme and enjoy it :D
 
 - [lighttigerXIV](https://github.com/lighttigerxiv)
 - [Xurdejl](https://github.com/Xurdejl)
+- [Amy](https://github.com/nullishamy)
 
 &nbsp;
 
