@@ -53,7 +53,7 @@
 - blue
 - lavender
 
-#### Examples
+#### Install Examples
     
 ```./install.sh --all --flat```
 
