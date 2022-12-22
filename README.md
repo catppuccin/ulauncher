@@ -19,7 +19,7 @@
 ## Preperation
 
     git clone https://github.com/lighttigerXIV/Catppuccin-Ulauncher.git
-    cd ulauncher
+    cd Catppuccin-Ulauncher
     chmod +x ./install.sh
     
 ## Options
