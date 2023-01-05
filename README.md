@@ -28,15 +28,15 @@
 | --flat | Installs the themes without the round border |
 | --all   | Installs all themes |
 | --latte | Installs all latte themes |
-| --latte-(codename) | Installs the latte theme corresponding to the codename |
+| --latte-(accent) | Installs the latte theme corresponding to the accent |
 | --frappe | Installs all frappe themes |
-| --frappe-(codename) | Installs the frappe theme corresponding to the codename |
-| --macchiato | Installs all machchiato themes |
-| --macchiato-(codename) | Installs the macchiato theme corresponding to the codename |
+| --frappe-(accent) | Installs the frappe theme corresponding to the accent |
+| --macchiato | Installs all macchiato themes |
+| --macchiato-(accent) | Installs the macchiato theme corresponding to the accent |
 | --mocha | Installs all mocha themes |
-| --mocha-(codename) | Installs the mocha theme corresponding to the codename |
+| --mocha-(accent) | Installs the mocha theme corresponding to the accent |
 
-#### Possible Codenames
+#### Accents
 
 - rosewater
 - flamingo
