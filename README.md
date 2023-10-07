@@ -36,62 +36,31 @@
 
 
 
-## Preperation
+## Usage
+1. Make sure the `ulauncher` is installed and `python3` command is available on your system.
+2. Execute the `install.py` script, either after cloning the repository, or via `curl`:
+```bash
+python3 <(curl https://raw.githubusercontent.com/catppuccin/ulauncher/main/install.py -fsSL)
+```
+3. In ULauncher, click the gear icon and in settings select the theme you want.
 
-    git clone https://github.com/catppuccin/ulauncher.git
-    cd ulauncher
-    chmod +x ./install.sh
-    
 ## Options
-| Command | Description 	|
-| ------- | -------------------	|
-| --flat | Installs the themes without the round border |
-| --all   | Installs all themes |
-| --latte | Installs all latte themes |
-| --latte-(accent) | Installs the latte theme corresponding to the accent |
-| --frappe | Installs all frappe themes |
-| --frappe-(accent) | Installs the frappe theme corresponding to the accent |
-| --macchiato | Installs all macchiato themes |
-| --macchiato-(accent) | Installs the macchiato theme corresponding to the accent |
-| --mocha | Installs all mocha themes |
-| --mocha-(accent) | Installs the mocha theme corresponding to the accent |
+- `-f` or `--flavor` for list of flavors to install, can be `mocha`, `frappe`, `macchiato` and `latte` or pass `all` to install all flavor. Its `mocha` by default.
+- `-a` or `--apply` for list of accents to install, can be a list of `rosewater`, `flamingo`, `pink`, `mauve`, `red`, `maroon`, `peach`, `yellow`, `green`, `teal`, `sky`, `sapphire`, `blue`, `lavender` or pass `all` to install all accents. Its `blue` by default.
+- `-r` or `--radius` for applying border radius to the themes, can be any integer between `0` to `48`. Its `14` by default.
 
-#### Accents
+If you are feeling lazy, you can just pass `-f all -a all` to install all flavors and accents.
 
-- rosewater
-- flamingo
-- pink
-- mauve
-- red
-- maroon
-- peach
-- yellow
-- green
-- teal
-- sky
-- sapphire
-- blue
-- lavender
-
-## Install Examples
-    
-```./install.sh --all --flat```
-
-```./install.sh --all```
-
-```./install.sh --latte --mocha```
-
-```./install.sh --frappe-red --flat```    
-
-```./install.sh --frappe-mauve --frappe-lavender```
-    
-Now you can select the theme and enjoy it :D
+```bash
+python3 <(curl https://raw.githubusercontent.com/catppuccin/ulauncher/main/install.py -fsSL) -f all -a all
+```
 
 ## 💝 Thanks to
 
 - [lighttigerXIV](https://github.com/lighttigerxiv)
 - [Xurdejl](https://github.com/Xurdejl)
 - [Amy](https://github.com/nullishamy)
+- [BlankParticle](https://github.com/BlankParticle)
 
 &nbsp;
 
